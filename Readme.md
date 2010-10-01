@@ -16,6 +16,11 @@ A stencil for designing iOS applications for iPhone, iPad and iPod touch devices
 
 ## History
 
+### 1.3.1 - October 1, 2010
+
+* Add iPhone 4 wireframe device stencil.
+
+
 ### 1.3
 
 * Add iPhone 4 device stencil.
