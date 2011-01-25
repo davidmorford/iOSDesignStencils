@@ -3,7 +3,7 @@
 
 A stencil for designing iOS applications for iPhone, iPad and iPod touch devices. The stencil was created a developer for developers and provides the views, controls and symbols in UIKit. All stencils are **originally created by hand from native or custom created OmniGraffle shapes** and grouped for ease of use. Stencils can be easily scaled to new point resolutions and exported to any vector formats supported in OmniGraffle.
 
-[![](http://github.com/davidmorford/iOSDesignStencils/raw/master/Documents/iosds-overview.png)](http://github.com/davidmorford/iOSDesignStencils/raw/master/Documents/iosds-overview.png)
+[![](https://github.com/davidmorford/iOSDesignStencils/raw/master/Documents/iosds-overview.png)](https://github.com/davidmorford/iOSDesignStencils/raw/master/Documents/iosds-overview.png)
 
 ## Notes
 
