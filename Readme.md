@@ -16,6 +16,25 @@ A stencil for designing iOS applications for iPhone, iPad and iPod touch devices
 
 ## History
 
+### 1.5 - February 5, 2011
+
+* Shorter stencil file names for better readability in desktop and iPad stencil libraries.
+* Merge About and Common into a "General" stencil to save visual space.
+* Apple Symbols font glyphs removed from bar button items replaced with vector shape versions.
+* Add initial wireframe versions for bar button items, pickers, action ahem, alert view, keyboard and standard view layouts.
+
+
+### 1.3.3 - January 6, 2011
+
+* Update stencil packaging for better iPad download.
+
+
+### 1.3.2 - October 4, 2010
+
+* Fix for possible wrong iPhone Stencil file.
+* Fix for iPhone 4 design stencil.
+
+
 ### 1.3.1 - October 1, 2010
 
 * Add iPhone 4 wireframe device stencil.
@@ -24,6 +43,7 @@ A stencil for designing iOS applications for iPhone, iPad and iPod touch devices
 ### 1.3
 
 * Add iPhone 4 device stencil.
+
 
 ### 1.2
 
@@ -61,3 +81,4 @@ A stencil for designing iOS applications for iPhone, iPad and iPod touch devices
 
 ## Terms of Use
 
+(c) 2009 - 2011 Dave Morford / Semantap. All Right Reserved.
