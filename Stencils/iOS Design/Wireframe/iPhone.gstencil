@@ -22,7 +22,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2011-02-04 21:00:12 -0800</string>
+	<string>2011-03-18 03:42:27 -0700</string>
 	<key>Modifier</key>
 	<string>David</string>
 	<key>NotesVisible</key>
@@ -83,11 +83,11 @@
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -5265,11 +5265,11 @@
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -13467,11 +13467,11 @@
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -15265,11 +15265,11 @@ May}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -15739,11 +15739,11 @@ May}</string>
 								<key>Color</key>
 								<dict>
 									<key>b</key>
-									<string>1</string>
+									<string>0.498039</string>
 									<key>g</key>
-									<string>1</string>
+									<string>0.498039</string>
 									<key>r</key>
-									<string>1</string>
+									<string>0.498039</string>
 								</dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
@@ -15781,8 +15781,8 @@ May}</string>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\colortbl;\red255\green255\blue255;\red127\green127\blue127;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
 \f0\b\fs26 \cf2 Title}</string>
 								<key>VerticalPad</key>
@@ -16345,11 +16345,11 @@ May}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -29983,11 +29983,11 @@ ABC}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -32948,11 +32948,11 @@ UITableView\
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -33140,18 +33140,6 @@ Grouped}</string>
 					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<string>0.93</string>
-								<key>g</key>
-								<string>0.93</string>
-								<key>r</key>
-								<string>0.93</string>
-							</dict>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -33259,11 +33247,11 @@ Grouped}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -34812,11 +34800,11 @@ UITableView\
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -36206,11 +36194,11 @@ UITableView\
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -37649,7 +37637,7 @@ UITableView\
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>0</integer>
 		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>

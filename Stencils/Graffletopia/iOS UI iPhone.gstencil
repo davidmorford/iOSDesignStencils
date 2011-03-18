@@ -22,7 +22,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2011-02-04 20:54:36 -0800</string>
+	<string>2011-03-18 03:25:34 -0700</string>
 	<key>Modifier</key>
 	<string>David</string>
 	<key>NotesVisible</key>
@@ -83,11 +83,11 @@
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -1425,6 +1425,13 @@
 							<string>{{95.7266, 78.34}, {15.6818, 11.5}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88275</integer>
 							<key>Shape</key>
@@ -1475,7 +1482,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{54.88, 78.715}, {36.7844, 13.4437}}</string>
+									<string>{{54.88, 77.215}, {36.7844, 13.4437}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -1486,7 +1493,7 @@
 											<string>0</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>Size</key>
 										<real>10</real>
 									</dict>
@@ -1533,7 +1540,7 @@
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -1566,7 +1573,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>13</real>
 											</dict>
@@ -1646,7 +1653,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>13</real>
 											</dict>
@@ -1726,7 +1733,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>13</real>
 											</dict>
@@ -1806,7 +1813,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>13</real>
 											</dict>
@@ -1886,7 +1893,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>13</real>
 											</dict>
@@ -1975,7 +1982,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>10</real>
 											</dict>
@@ -2057,7 +2064,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>10</real>
 											</dict>
@@ -2152,7 +2159,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>10</real>
 											</dict>
@@ -2234,7 +2241,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>10</real>
 											</dict>
@@ -2312,7 +2319,7 @@
 													<string>0</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica-Bold</string>
+												<string>HelveticaNeue-Bold</string>
 												<key>Size</key>
 												<real>9</real>
 											</dict>
@@ -2361,7 +2368,7 @@
 												<integer>0</integer>
 												<key>Text</key>
 												<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -2387,7 +2394,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica-Bold</string>
+												<string>HelveticaNeue-Bold</string>
 												<key>Size</key>
 												<real>9</real>
 											</dict>
@@ -2436,7 +2443,7 @@
 												<integer>0</integer>
 												<key>Text</key>
 												<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -2471,7 +2478,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica-Bold</string>
+												<string>HelveticaNeue-Bold</string>
 												<key>Size</key>
 												<real>14</real>
 											</dict>
@@ -2531,7 +2538,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica-Bold</string>
+												<string>HelveticaNeue-Bold</string>
 												<key>Size</key>
 												<real>14</real>
 											</dict>
@@ -2613,6 +2620,13 @@
 							<string>{{95.2137, 120.71}, {15.6818, 11.5}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88256</integer>
 							<key>Shape</key>
@@ -2658,7 +2672,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>14</real>
 											</dict>
@@ -2727,7 +2741,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>14</real>
 											</dict>
@@ -2796,7 +2810,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>14</real>
 											</dict>
@@ -2865,7 +2879,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>14</real>
 											</dict>
@@ -2934,7 +2948,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>14</real>
 											</dict>
@@ -3012,7 +3026,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>11</real>
 											</dict>
@@ -3088,7 +3102,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>11</real>
 											</dict>
@@ -3166,7 +3180,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>11</real>
 											</dict>
@@ -3231,7 +3245,7 @@
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{151.296, 120.46}, {65.4085, 12}}</string>
+									<string>{{151.296, 120.46}, {65.4085, 13}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FitText</key>
@@ -3250,7 +3264,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>Size</key>
 										<real>10</real>
 									</dict>
@@ -3282,7 +3296,7 @@
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -3293,7 +3307,7 @@
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{50.5, 120.46}, {41, 12}}</string>
+									<string>{{50.5, 119.96}, {41, 13}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FitText</key>
@@ -3312,7 +3326,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>Size</key>
 										<real>10</real>
 									</dict>
@@ -3344,7 +3358,7 @@
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -3370,7 +3384,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>11</real>
 									</dict>
@@ -3433,13 +3447,20 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{62.5, 330.33}, {13, 13}}</string>
+									<string>{{63.5, 330.33}, {12, 13}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FitText</key>
 									<string>YES</string>
 									<key>Flow</key>
 									<string>Resize</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>9</real>
+									</dict>
 									<key>ID</key>
 									<integer>88226</integer>
 									<key>Shape</key>
@@ -3470,11 +3491,11 @@
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
-\f0\b\fs22 \cf1 \expnd0\expndtw0\kerning0
+\f0\b\fs20 \cf1 \expnd0\expndtw0\kerning0
 42}</string>
 										<key>VerticalPad</key>
 										<integer>0</integer>
@@ -3499,9 +3520,9 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>Size</key>
-										<real>9</real>
+										<real>7</real>
 									</dict>
 									<key>ID</key>
 									<integer>88227</integer>
@@ -3629,9 +3650,9 @@
 									<key>FontInfo</key>
 									<dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>Size</key>
-										<real>11</real>
+										<real>9</real>
 									</dict>
 									<key>ID</key>
 									<integer>88229</integer>
@@ -3721,9 +3742,9 @@
 															<string>0.66</string>
 														</dict>
 														<key>Font</key>
-														<string>Helvetica</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>9</real>
+														<real>7</real>
 													</dict>
 													<key>ID</key>
 													<integer>88232</integer>
@@ -3753,7 +3774,7 @@
 														<integer>0</integer>
 														<key>Text</key>
 														<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -3779,9 +3800,9 @@
 															<string>0.54902</string>
 														</dict>
 														<key>Font</key>
-														<string>LucidaGrande</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>6</real>
+														<real>4</real>
 													</dict>
 													<key>ID</key>
 													<integer>88233</integer>
@@ -3901,9 +3922,9 @@
 															<string>0.54902</string>
 														</dict>
 														<key>Font</key>
-														<string>LucidaGrande</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>6</real>
+														<real>4</real>
 													</dict>
 													<key>ID</key>
 													<integer>88235</integer>
@@ -4010,9 +4031,9 @@
 															<string>0.66</string>
 														</dict>
 														<key>Font</key>
-														<string>Helvetica</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>9</real>
+														<real>7</real>
 													</dict>
 													<key>ID</key>
 													<integer>88236</integer>
@@ -4042,7 +4063,7 @@
 														<integer>0</integer>
 														<key>Text</key>
 														<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red168\green168\blue168;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -4077,9 +4098,9 @@
 															<string>0.54902</string>
 														</dict>
 														<key>Font</key>
-														<string>LucidaGrande</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>6</real>
+														<real>4</real>
 													</dict>
 													<key>ID</key>
 													<integer>88238</integer>
@@ -4186,9 +4207,9 @@
 															<string>0.66</string>
 														</dict>
 														<key>Font</key>
-														<string>Helvetica</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>9</real>
+														<real>7</real>
 													</dict>
 													<key>ID</key>
 													<integer>88239</integer>
@@ -4218,7 +4239,7 @@
 														<integer>0</integer>
 														<key>Text</key>
 														<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red168\green168\blue168;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -4253,9 +4274,9 @@
 															<string>0.54902</string>
 														</dict>
 														<key>Font</key>
-														<string>LucidaGrande</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>6</real>
+														<real>4</real>
 													</dict>
 													<key>ID</key>
 													<integer>88241</integer>
@@ -4362,9 +4383,9 @@
 															<string>0.66</string>
 														</dict>
 														<key>Font</key>
-														<string>Helvetica</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>9</real>
+														<real>7</real>
 													</dict>
 													<key>ID</key>
 													<integer>88242</integer>
@@ -4394,7 +4415,7 @@
 														<integer>0</integer>
 														<key>Text</key>
 														<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red168\green168\blue168;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -4434,9 +4455,9 @@
 																	<string>1</string>
 																</dict>
 																<key>Font</key>
-																<string>LucidaGrande</string>
+																<string>HelveticaNeue</string>
 																<key>Size</key>
-																<real>6</real>
+																<real>4</real>
 															</dict>
 															<key>ID</key>
 															<integer>88245</integer>
@@ -4537,9 +4558,9 @@
 																	<string>1</string>
 																</dict>
 																<key>Font</key>
-																<string>LucidaGrande</string>
+																<string>HelveticaNeue</string>
 																<key>Size</key>
-																<real>6</real>
+																<real>4</real>
 															</dict>
 															<key>ID</key>
 															<integer>88246</integer>
@@ -4640,9 +4661,9 @@
 																	<string>1</string>
 																</dict>
 																<key>Font</key>
-																<string>LucidaGrande</string>
+																<string>HelveticaNeue</string>
 																<key>Size</key>
-																<real>6</real>
+																<real>4</real>
 															</dict>
 															<key>ID</key>
 															<integer>88247</integer>
@@ -4747,9 +4768,9 @@
 															<string>0.658824</string>
 														</dict>
 														<key>Font</key>
-														<string>Helvetica</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>9</real>
+														<real>7</real>
 													</dict>
 													<key>ID</key>
 													<integer>88248</integer>
@@ -4779,7 +4800,7 @@
 														<integer>0</integer>
 														<key>Text</key>
 														<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red168\green168\blue168;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -4805,9 +4826,9 @@
 													<key>FontInfo</key>
 													<dict>
 														<key>Font</key>
-														<string>LucidaGrande</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>4</real>
+														<real>2</real>
 													</dict>
 													<key>HFlip</key>
 													<string>YES</string>
@@ -4883,9 +4904,9 @@
 													<key>FontInfo</key>
 													<dict>
 														<key>Font</key>
-														<string>LucidaGrande</string>
+														<string>HelveticaNeue</string>
 														<key>Size</key>
-														<real>4</real>
+														<real>2</real>
 													</dict>
 													<key>HFlip</key>
 													<string>YES</string>
@@ -4971,6 +4992,13 @@
 													<string>{{24, 323.83}, {319.994, 0.989709}}</string>
 													<key>Class</key>
 													<string>ShapedGraphic</string>
+													<key>FontInfo</key>
+													<dict>
+														<key>Font</key>
+														<string>HelveticaNeue-Bold</string>
+														<key>Size</key>
+														<real>9</real>
+													</dict>
 													<key>ID</key>
 													<integer>88252</integer>
 													<key>Shape</key>
@@ -5046,6 +5074,13 @@
 									<string>{{678.75, 343.83}, {18, 12}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88192</integer>
 									<key>Shape</key>
@@ -5099,7 +5134,7 @@
 									<key>FontInfo</key>
 									<dict>
 										<key>Font</key>
-										<string>AppleSymbols</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>14</real>
 									</dict>
@@ -5254,7 +5289,7 @@
 													<string>0.54902</string>
 												</dict>
 												<key>Font</key>
-												<string>LucidaGrande</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>26</real>
 											</dict>
@@ -5348,7 +5383,7 @@
 											<key>FontInfo</key>
 											<dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>13</real>
 											</dict>
@@ -5390,7 +5425,7 @@
 												<integer>30</integer>
 												<key>Text</key>
 												<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red191\green191\blue191;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -5413,6 +5448,13 @@
 											<string>{{398, 370.83}, {320, 1}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>88199</integer>
 											<key>Shape</key>
@@ -5462,6 +5504,13 @@
 											<string>{{398, 327.83}, {320, 42.9996}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>88200</integer>
 											<key>Shape</key>
@@ -5548,6 +5597,13 @@
 									<string>{{902.473, 489.989}, {27.0521, 27.6001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88175</integer>
 									<key>Magnets</key>
@@ -5603,6 +5659,13 @@
 									<string>{{963.21, 490.071}, {27.0521, 27.6001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88176</integer>
 									<key>Magnets</key>
@@ -5658,6 +5721,13 @@
 									<string>{{841.736, 490.071}, {27.0521, 27.6001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88177</integer>
 									<key>Magnets</key>
@@ -5713,6 +5783,13 @@
 									<string>{{1023.95, 490.071}, {27.0521, 27.6001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88178</integer>
 									<key>Magnets</key>
@@ -5768,6 +5845,13 @@
 									<string>{{780.999, 490.071}, {27.0521, 27.6001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88179</integer>
 									<key>Magnets</key>
@@ -5827,6 +5911,13 @@
 							<string>{{756, 481.83}, {320, 44}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88180</integer>
 							<key>Shape</key>
@@ -5911,13 +6002,20 @@
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{796, 85.09}, {240, 22}}</string>
+							<string>{{796, 85.09}, {240, 23}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
 							<string>Vertical</string>
 							<key>Flow</key>
 							<string>Resize</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88182</integer>
 							<key>Shape</key>
@@ -5959,7 +6057,7 @@
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -5973,6 +6071,13 @@
 							<string>{{756, 74.09}, {320, 44}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88183</integer>
 							<key>Shape</key>
@@ -6063,7 +6168,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>Size</key>
 								<real>11</real>
 							</dict>
@@ -6093,7 +6198,7 @@
 							<dict>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -6107,6 +6212,13 @@
 							<string>{{436.06, 159.291}, {239.88, 22.0898}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88061</integer>
 							<key>Shape</key>
@@ -6148,7 +6260,7 @@
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -6162,6 +6274,13 @@
 							<string>{{398.16, 187.362}, {319.84, 0.98762}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88062</integer>
 							<key>Shape</key>
@@ -6211,6 +6330,13 @@
 							<string>{{398, 128.35}, {320, 58.7552}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88063</integer>
 							<key>Shape</key>
@@ -6281,13 +6407,20 @@
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{438, 85.09}, {240, 22}}</string>
+							<string>{{438, 85.09}, {240, 23}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
 							<string>Vertical</string>
 							<key>Flow</key>
 							<string>Resize</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88161</integer>
 							<key>Shape</key>
@@ -6329,7 +6462,7 @@
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -6348,6 +6481,13 @@
 									<string>{{398, 117.09}, {320, 1}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88163</integer>
 									<key>Shape</key>
@@ -6397,6 +6537,13 @@
 									<string>{{398, 74.09}, {320, 42.9996}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88164</integer>
 									<key>Shape</key>
@@ -6491,7 +6638,7 @@
 											<string>0.54902</string>
 										</dict>
 										<key>Font</key>
-										<string>LucidaGrande</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>6</real>
 									</dict>
@@ -6600,7 +6747,7 @@
 											<string>0.66</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>9</real>
 									</dict>
@@ -6632,7 +6779,7 @@
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red168\green168\blue168;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -6667,7 +6814,7 @@
 											<string>0.54902</string>
 										</dict>
 										<key>Font</key>
-										<string>LucidaGrande</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>6</real>
 									</dict>
@@ -6776,7 +6923,7 @@
 											<string>0.66</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>9</real>
 									</dict>
@@ -6808,7 +6955,7 @@
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red168\green168\blue168;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -6843,7 +6990,7 @@
 											<string>0.54902</string>
 										</dict>
 										<key>Font</key>
-										<string>LucidaGrande</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>6</real>
 									</dict>
@@ -6952,7 +7099,7 @@
 											<string>0.66</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>9</real>
 									</dict>
@@ -6984,7 +7131,7 @@
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red168\green168\blue168;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -7019,7 +7166,7 @@
 											<string>0.54902</string>
 										</dict>
 										<key>Font</key>
-										<string>LucidaGrande</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>6</real>
 									</dict>
@@ -7128,7 +7275,7 @@
 											<string>0.66</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>9</real>
 									</dict>
@@ -7160,7 +7307,7 @@
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red168\green168\blue168;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -7200,7 +7347,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>LucidaGrande</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>6</real>
 											</dict>
@@ -7303,7 +7450,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>LucidaGrande</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>6</real>
 											</dict>
@@ -7406,7 +7553,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>LucidaGrande</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>6</real>
 											</dict>
@@ -7513,7 +7660,7 @@
 											<string>0.658824</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>9</real>
 									</dict>
@@ -7545,7 +7692,7 @@
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red168\green168\blue168;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -7571,7 +7718,7 @@
 									<key>FontInfo</key>
 									<dict>
 										<key>Font</key>
-										<string>LucidaGrande</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>4</real>
 									</dict>
@@ -7649,7 +7796,7 @@
 									<key>FontInfo</key>
 									<dict>
 										<key>Font</key>
-										<string>LucidaGrande</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>4</real>
 									</dict>
@@ -7737,6 +7884,13 @@
 									<string>{{24, 252.83}, {319.994, 0.989709}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>87935</integer>
 									<key>Shape</key>
@@ -7809,6 +7963,13 @@
 											<string>{{690, 287.96}, {9, 9.00008}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>88126</integer>
 											<key>Shape</key>
@@ -7850,6 +8011,13 @@
 											<string>{{686.5, 284.46}, {16, 16.0001}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>88127</integer>
 											<key>Shape</key>
@@ -7926,7 +8094,7 @@
 													<string>0.54902</string>
 												</dict>
 												<key>Font</key>
-												<string>LucidaGrande</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>26</real>
 											</dict>
@@ -8020,7 +8188,7 @@
 											<key>FontInfo</key>
 											<dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>13</real>
 											</dict>
@@ -8062,7 +8230,7 @@
 												<integer>30</integer>
 												<key>Text</key>
 												<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red191\green191\blue191;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -8089,6 +8257,13 @@
 									<string>{{398, 313.83}, {320, 1.00001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88132</integer>
 									<key>Shape</key>
@@ -8138,6 +8313,13 @@
 									<string>{{398, 270.83}, {320, 43}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88133</integer>
 									<key>Shape</key>
@@ -8225,6 +8407,13 @@
 											<string>{{409, 432.83}, {75.0105, 29}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>88099</integer>
 											<key>Shape</key>
@@ -8293,7 +8482,7 @@
 												<integer>0</integer>
 												<key>Text</key>
 												<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red93\green94\blue97;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -8309,6 +8498,13 @@
 											<string>{{484.01, 432.83}, {75.0105, 29}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>88100</integer>
 											<key>Shape</key>
@@ -8377,7 +8573,7 @@
 												<integer>0</integer>
 												<key>Text</key>
 												<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red93\green94\blue97;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -8393,6 +8589,13 @@
 											<string>{{559.022, 432.83}, {73.9686, 29}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>88101</integer>
 											<key>Shape</key>
@@ -8461,7 +8664,7 @@
 												<integer>0</integer>
 												<key>Text</key>
 												<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red93\green94\blue97;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -8489,7 +8692,7 @@
 													<string>0.364189</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica-Bold</string>
+												<string>HelveticaNeue-Bold</string>
 												<key>NSKern</key>
 												<real>0.0</real>
 												<key>Size</key>
@@ -8563,7 +8766,7 @@
 												<integer>0</integer>
 												<key>Text</key>
 												<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red93\green94\blue97;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -8583,6 +8786,13 @@
 									<string>{{398, 425.83}, {320, 44}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88103</integer>
 									<key>Shape</key>
@@ -8675,7 +8885,7 @@
 													<string>0.54902</string>
 												</dict>
 												<key>Font</key>
-												<string>LucidaGrande</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>26</real>
 											</dict>
@@ -8769,7 +8979,7 @@
 											<key>FontInfo</key>
 											<dict>
 												<key>Font</key>
-												<string>Helvetica</string>
+												<string>HelveticaNeue</string>
 												<key>Size</key>
 												<real>13</real>
 											</dict>
@@ -8811,7 +9021,7 @@
 												<integer>30</integer>
 												<key>Text</key>
 												<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red191\green191\blue191;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -8837,7 +9047,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Arial-BoldMT</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -8913,7 +9123,7 @@
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -8939,7 +9149,7 @@
 											<string>0.54902</string>
 										</dict>
 										<key>Font</key>
-										<string>LucidaGrande</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>6</real>
 									</dict>
@@ -9030,6 +9240,13 @@
 									<string>{{398, 424.829}, {320, 1}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88110</integer>
 									<key>Shape</key>
@@ -9079,6 +9296,13 @@
 									<string>{{398, 381.83}, {320, 42.9996}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88111</integer>
 									<key>Shape</key>
@@ -9153,7 +9377,7 @@
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{155.336, 157.96}, {57, 12}}</string>
+							<string>{{155.336, 157.96}, {57, 13}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -9172,7 +9396,7 @@
 									<string>0.4</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>8</real>
 							</dict>
@@ -9204,7 +9428,7 @@
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red102\green102\blue102;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -9215,7 +9439,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{51.608, 157.96}, {39.8922, 12}}</string>
+							<string>{{51.608, 157.96}, {39.8922, 13}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -9234,7 +9458,7 @@
 									<string>0.4</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>8</real>
 							</dict>
@@ -9266,7 +9490,7 @@
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red83\green83\blue83;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -9297,7 +9521,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>13</real>
 									</dict>
@@ -9375,7 +9599,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>13</real>
 									</dict>
@@ -9453,7 +9677,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>13</real>
 									</dict>
@@ -9531,7 +9755,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>13</real>
 									</dict>
@@ -9609,7 +9833,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>13</real>
 									</dict>
@@ -9696,7 +9920,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>10</real>
 									</dict>
@@ -9776,7 +10000,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica</string>
+										<string>HelveticaNeue</string>
 										<key>Size</key>
 										<real>10</real>
 									</dict>
@@ -9861,7 +10085,7 @@
 											<string>0.325819</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>Size</key>
 										<real>11</real>
 									</dict>
@@ -9921,7 +10145,7 @@
 											<string>0.4</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>Size</key>
 										<real>11</real>
 									</dict>
@@ -9989,6 +10213,13 @@
 									<string>{{544.474, 489.949}, {27.0521, 27.6001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88152</integer>
 									<key>Magnets</key>
@@ -10044,6 +10275,13 @@
 									<string>{{605.211, 490.031}, {27.0521, 27.6001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88153</integer>
 									<key>Magnets</key>
@@ -10099,6 +10337,13 @@
 									<string>{{483.737, 490.031}, {27.0521, 27.6001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88154</integer>
 									<key>Magnets</key>
@@ -10154,6 +10399,13 @@
 									<string>{{665.95, 490.031}, {27.0521, 27.6001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88155</integer>
 									<key>Magnets</key>
@@ -10209,6 +10461,13 @@
 									<string>{{423, 490.031}, {27.0521, 27.6001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88156</integer>
 									<key>Magnets</key>
@@ -10273,6 +10532,13 @@
 									<string>{{398, 482.91}, {320, 43}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88158</integer>
 									<key>Shape</key>
@@ -10337,6 +10603,13 @@
 									<string>{{398, 481.91}, {320, 1}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>88159</integer>
 									<key>Shape</key>
@@ -10402,7 +10675,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>Size</key>
 								<real>12</real>
 							</dict>
@@ -10438,7 +10711,7 @@
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -10455,7 +10728,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>Size</key>
 								<real>12</real>
 							</dict>
@@ -10491,7 +10764,7 @@
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -10508,7 +10781,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>12</real>
 							</dict>
@@ -10538,7 +10811,7 @@
 							<dict>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -10554,6 +10827,13 @@
 							<string>{{398, 257.468}, {319.84, 0.991872}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88068</integer>
 							<key>Shape</key>
@@ -10603,6 +10883,13 @@
 							<string>{{398, 198.46}, {320, 59.0081}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>11</real>
+							</dict>
 							<key>ID</key>
 							<integer>88069</integer>
 							<key>Shape</key>
@@ -10755,11 +11042,11 @@
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -13017,6 +13304,13 @@
 							<string>{{595.331, 26.174}, {26.6694, 21.5}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88235</integer>
 							<key>Shape</key>
@@ -13060,7 +13354,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -13152,6 +13446,13 @@
 							<string>{{595.331, 116.598}, {26.6694, 21.5}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88214</integer>
 							<key>Shape</key>
@@ -13186,7 +13487,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -13276,6 +13577,13 @@
 							<string>{{644, 31}, {22, 15}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88238</integer>
 							<key>Shape</key>
@@ -13338,7 +13646,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -13430,6 +13738,13 @@
 							<string>{{410, 30.7622}, {16, 16}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88217</integer>
 							<key>Shape</key>
@@ -13469,7 +13784,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -13559,6 +13874,13 @@
 							<string>{{547.5, 30.674}, {22, 16}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88232</integer>
 							<key>Shape</key>
@@ -13607,7 +13929,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -13704,6 +14026,13 @@
 									<string>{{508.487, 29.187}, {3.94622, 18.2966}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88228</integer>
 									<key>Rotation</key>
@@ -13729,6 +14058,13 @@
 									<string>{{508.53, 29.095}, {3.94622, 18.4034}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88229</integer>
 									<key>Rotation</key>
@@ -13770,7 +14106,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -13872,6 +14208,13 @@
 											<string>{{459.357, 32.056}, {12.4976, 11.4322}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>88222</integer>
 											<key>Rotation</key>
@@ -13959,6 +14302,13 @@
 											<string>{{469.709, 30.405}, {3.23542, 3.23415}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>88223</integer>
 											<key>Rotation</key>
@@ -13996,6 +14346,13 @@
 									<string>{{452, 29.326}, {18.463, 19}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88224</integer>
 									<key>Shape</key>
@@ -14039,7 +14396,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -14136,6 +14493,13 @@
 									<string>{{944, 29.174}, {4, 19}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88264</integer>
 									<key>Shape</key>
@@ -14159,6 +14523,13 @@
 									<string>{{936, 29.174}, {4, 19}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88265</integer>
 									<key>Shape</key>
@@ -14202,7 +14573,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>AppleSymbols</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -14299,6 +14670,13 @@
 									<string>{{983.763, 30.674}, {8.42105, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88269</integer>
 									<key>Shape</key>
@@ -14322,6 +14700,13 @@
 									<string>{{979.553, 30.674}, {2.52632, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88270</integer>
 									<key>Shape</key>
@@ -14345,6 +14730,13 @@
 									<string>{{993.026, 30.674}, {8.42105, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88271</integer>
 									<key>Shape</key>
@@ -14388,7 +14780,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>AppleSymbols</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -14485,6 +14877,13 @@
 									<string>{{1047.12, 30.674}, {2.52632, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88275</integer>
 									<key>Shape</key>
@@ -14508,6 +14907,13 @@
 									<string>{{1036.91, 30.674}, {8.42105, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88276</integer>
 									<key>Shape</key>
@@ -14531,6 +14937,13 @@
 									<string>{{1027.35, 30.674}, {8.42105, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88277</integer>
 									<key>Shape</key>
@@ -14574,7 +14987,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>AppleSymbols</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -14666,6 +15079,13 @@
 							<string>{{888.5, 31.174}, {14, 15}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88260</integer>
 							<key>Shape</key>
@@ -14705,7 +15125,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>AppleSymbols</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -14797,6 +15217,13 @@
 							<string>{{742, 28.674}, {15.3, 18}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88244</integer>
 							<key>Shape</key>
@@ -14840,7 +15267,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -14937,6 +15364,13 @@
 									<string>{{789, 31.326}, {19, 14}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88248</integer>
 									<key>Shape</key>
@@ -14960,6 +15394,13 @@
 									<string>{{795.441, 36.208}, {6.11644, 6.27174}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88249</integer>
 									<key>Shape</key>
@@ -15020,7 +15461,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>AppleSymbols</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -15117,6 +15558,13 @@
 									<string>{{840, 29.674}, {14, 18}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88253</integer>
 									<key>Shape</key>
@@ -15145,6 +15593,13 @@
 											<string>{{846.126, 35.62}, {1.55294, 8.35714}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>88255</integer>
 											<key>Shape</key>
@@ -15186,6 +15641,13 @@
 											<string>{{843.279, 35.62}, {1.55294, 8.35714}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>88256</integer>
 											<key>Shape</key>
@@ -15227,6 +15689,13 @@
 											<string>{{848.973, 35.62}, {1.55294, 8.35714}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>88257</integer>
 											<key>Shape</key>
@@ -15288,7 +15757,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -15380,6 +15849,13 @@
 							<string>{{410, 120.5}, {16, 16}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88134</integer>
 							<key>Shape</key>
@@ -15423,7 +15899,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -15517,6 +15993,13 @@
 							<string>{{644, 121}, {22, 15}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88211</integer>
 							<key>Shape</key>
@@ -15570,7 +16053,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -15660,6 +16143,13 @@
 							<string>{{547.5, 120.348}, {22, 16}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88142</integer>
 							<key>Shape</key>
@@ -15699,7 +16189,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -15794,6 +16284,13 @@
 									<string>{{508.487, 119.361}, {3.94622, 18.2966}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88138</integer>
 									<key>Rotation</key>
@@ -15819,6 +16316,13 @@
 									<string>{{508.53, 119.269}, {3.94622, 18.4034}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88139</integer>
 									<key>Rotation</key>
@@ -15851,7 +16355,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -15951,6 +16455,13 @@
 											<string>{{460.357, 121.578}, {12.4976, 11.4322}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>88282</integer>
 											<key>Rotation</key>
@@ -16038,6 +16549,13 @@
 											<string>{{470.709, 119.927}, {3.23542, 3.23415}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>88283</integer>
 											<key>Rotation</key>
@@ -16075,6 +16593,13 @@
 									<string>{{453, 118.848}, {18.463, 19}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88284</integer>
 									<key>Shape</key>
@@ -16113,7 +16638,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -16208,6 +16733,13 @@
 									<string>{{944, 118.848}, {4, 19}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88188</integer>
 									<key>Shape</key>
@@ -16231,6 +16763,13 @@
 									<string>{{936, 118.848}, {4, 19}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88189</integer>
 									<key>Shape</key>
@@ -16261,7 +16800,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -16356,6 +16895,13 @@
 									<string>{{983.763, 120.348}, {8.42105, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88182</integer>
 									<key>Shape</key>
@@ -16379,6 +16925,13 @@
 									<string>{{979.553, 120.348}, {2.52632, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88183</integer>
 									<key>Shape</key>
@@ -16402,6 +16955,13 @@
 									<string>{{993.026, 120.348}, {8.42105, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88184</integer>
 									<key>Shape</key>
@@ -16432,7 +16992,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -16527,6 +17087,13 @@
 									<string>{{1047.12, 120.348}, {2.52632, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88176</integer>
 									<key>Shape</key>
@@ -16550,6 +17117,13 @@
 									<string>{{1036.91, 120.348}, {8.42105, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88177</integer>
 									<key>Shape</key>
@@ -16573,6 +17147,13 @@
 									<string>{{1027.35, 120.348}, {8.42105, 16}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88178</integer>
 									<key>Shape</key>
@@ -16603,7 +17184,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -16693,6 +17274,13 @@
 							<string>{{888.5, 120.848}, {14, 15}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88192</integer>
 							<key>Shape</key>
@@ -16719,7 +17307,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -16809,6 +17397,13 @@
 							<string>{{742, 118.348}, {15.3, 18}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>88208</integer>
 							<key>Shape</key>
@@ -16843,7 +17438,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -16938,6 +17533,13 @@
 									<string>{{789, 121}, {19, 14}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88204</integer>
 									<key>Shape</key>
@@ -16961,6 +17563,13 @@
 									<string>{{795.441, 125.882}, {6.11644, 6.27174}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88205</integer>
 									<key>Shape</key>
@@ -17012,7 +17621,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -17107,6 +17716,13 @@
 									<string>{{840, 119.348}, {14, 18}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>88196</integer>
 									<key>Shape</key>
@@ -17135,6 +17751,13 @@
 											<string>{{846.126, 125.294}, {1.55294, 8.35714}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>88198</integer>
 											<key>Shape</key>
@@ -17176,6 +17799,13 @@
 											<string>{{843.279, 125.294}, {1.55294, 8.35714}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>88199</integer>
 											<key>Shape</key>
@@ -17217,6 +17847,13 @@
 											<string>{{848.973, 125.294}, {1.55294, 8.35714}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>88200</integer>
 											<key>Shape</key>
@@ -17269,7 +17906,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -17361,7 +17998,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{857.64, 279.482}, {100, 22}}</string>
+									<string>{{857.64, 279.482}, {100, 23}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FitText</key>
@@ -17416,7 +18053,7 @@
 											<string>0.500023</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -17455,7 +18092,7 @@
 										<integer>2</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -17477,7 +18114,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -17599,7 +18236,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{957.409, 279.482}, {100, 22}}</string>
+									<string>{{957.409, 279.482}, {100, 23}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FitText</key>
@@ -17614,7 +18251,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -17653,7 +18290,7 @@
 										<integer>2</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -17675,7 +18312,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -17799,7 +18436,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{762.308, 279.482}, {100, 22}}</string>
+									<string>{{762.308, 279.482}, {100, 23}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FitText</key>
@@ -17814,7 +18451,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -17853,7 +18490,7 @@
 										<integer>2</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -17875,7 +18512,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -18014,7 +18651,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -18086,7 +18723,7 @@
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -18108,7 +18745,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -18184,7 +18821,7 @@
 								<integer>25</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qr\pardirnatural
 
@@ -18206,7 +18843,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -18282,7 +18919,7 @@
 								<integer>30</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -18307,7 +18944,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{857.398, 341.482}, {100, 22}}</string>
+									<string>{{857.398, 341.482}, {100, 23}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FitText</key>
@@ -18362,7 +18999,7 @@
 											<string>0.500023</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -18401,7 +19038,7 @@
 										<integer>2</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -18423,7 +19060,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -18584,7 +19221,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{757.49, 341.482}, {100, 22}}</string>
+									<string>{{757.49, 341.482}, {100, 23}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FitText</key>
@@ -18599,7 +19236,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -18638,7 +19275,7 @@
 										<integer>2</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -18660,7 +19297,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -18749,7 +19386,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{957.409, 341.482}, {100, 22}}</string>
+									<string>{{957.409, 341.482}, {100, 23}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FitText</key>
@@ -18764,7 +19401,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -18803,7 +19440,7 @@
 										<integer>2</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -18825,7 +19462,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -18993,7 +19630,7 @@
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica</string>
+						<string>HelveticaNeue</string>
 						<key>Size</key>
 						<real>12</real>
 					</dict>
@@ -19065,7 +19702,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -19084,6 +19721,13 @@
 							<string>{{555.086, 462.238}, {6.31717, 1.61883}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19111,6 +19755,13 @@
 							<string>{{562.926, 475.822}, {6.31717, 1.61883}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19138,6 +19789,13 @@
 							<string>{{552.215, 465.278}, {6.31672, 1.61908}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19165,6 +19823,13 @@
 							<string>{{565.796, 473.122}, {6.31672, 1.61908}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19192,6 +19857,13 @@
 							<string>{{552.215, 473.122}, {6.31672, 1.61908}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19219,6 +19891,13 @@
 							<string>{{565.796, 465.278}, {6.31672, 1.61908}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19246,6 +19925,13 @@
 							<string>{{555.086, 475.822}, {6.31717, 1.61883}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19273,6 +19959,13 @@
 							<string>{{562.926, 462.238}, {6.31717, 1.61883}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19300,6 +19993,13 @@
 							<string>{{551.164, 468.973}, {6.31674, 1.619}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19325,6 +20025,13 @@
 							<string>{{566.847, 468.973}, {6.31674, 1.619}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19350,6 +20057,13 @@
 							<string>{{559.004, 476.814}, {6.31714, 1.6189}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19377,6 +20091,13 @@
 							<string>{{559.004, 461.131}, {6.31714, 1.6189}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -19415,7 +20136,7 @@
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>11</real>
 					</dict>
@@ -19491,7 +20212,7 @@
 						<integer>8</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qr\pardirnatural
 
@@ -19515,7 +20236,7 @@
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Arial-BoldMT</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -19593,7 +20314,7 @@
 						<integer>8</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qr\pardirnatural
 
@@ -19614,7 +20335,7 @@
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>11</real>
 					</dict>
@@ -19688,7 +20409,7 @@
 						<integer>8</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -19712,7 +20433,7 @@
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Arial-BoldMT</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -19788,7 +20509,7 @@
 						<integer>8</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -19810,7 +20531,7 @@
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Times-Italic</string>
+						<string>HelveticaNeue-Italic</string>
 						<key>Size</key>
 						<real>20</real>
 					</dict>
@@ -19917,7 +20638,7 @@
 					<dict>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -19941,7 +20662,7 @@
 							<string>0.333333</string>
 						</dict>
 						<key>Font</key>
-						<string>Times-Italic</string>
+						<string>HelveticaNeue-Italic</string>
 						<key>Size</key>
 						<real>20</real>
 					</dict>
@@ -20039,7 +20760,7 @@
 					<dict>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red85\green85\blue85;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -20061,6 +20782,13 @@
 									<string>{{474.782, 289.201}, {3.66667, 12.2222}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>87304</integer>
 									<key>Magnets</key>
@@ -20086,6 +20814,13 @@
 									<string>{{470.504, 293.478}, {12.2222, 3.66667}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>HelveticaNeue-Bold</string>
+										<key>Size</key>
+										<real>21</real>
+									</dict>
 									<key>ID</key>
 									<integer>87305</integer>
 									<key>Magnets</key>
@@ -20115,6 +20850,13 @@
 							<string>{{465.504, 284.108}, {22, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>87306</integer>
 							<key>Magnets</key>
@@ -20231,6 +20973,13 @@
 							<string>{{515.176, 288.329}, {9.50669, 13.8715}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>85572</integer>
 							<key>Shape</key>
@@ -20257,6 +21006,13 @@
 							<string>{{507.504, 284.108}, {22, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>ID</key>
 							<integer>85573</integer>
 							<key>Magnets</key>
@@ -20375,7 +21131,7 @@
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>11</real>
 					</dict>
@@ -20447,7 +21203,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -20470,7 +21226,7 @@
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>11</real>
 					</dict>
@@ -20542,7 +21298,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -20565,7 +21321,7 @@
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>11</real>
 					</dict>
@@ -20637,7 +21393,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -20660,7 +21416,7 @@
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>11</real>
 					</dict>
@@ -20732,7 +21488,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -20755,7 +21511,7 @@
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>11</real>
 					</dict>
@@ -20827,7 +21583,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -20860,7 +21616,7 @@
 									<string>0.54902</string>
 								</dict>
 								<key>Font</key>
-								<string>LucidaGrande</string>
+								<string>HelveticaNeue</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -20945,7 +21701,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -21047,7 +21803,7 @@
 									<string>0.54902</string>
 								</dict>
 								<key>Font</key>
-								<string>LucidaGrande</string>
+								<string>HelveticaNeue</string>
 								<key>Size</key>
 								<real>21</real>
 							</dict>
@@ -21141,7 +21897,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Arial-BoldMT</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -21236,7 +21992,7 @@
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Arial-BoldMT</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -21310,7 +22066,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -21332,7 +22088,7 @@
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Arial-BoldMT</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -21406,7 +22162,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -21433,7 +22189,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -21558,7 +22314,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -21687,7 +22443,7 @@
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Arial-BoldMT</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -21761,7 +22517,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -21788,7 +22544,7 @@
 									<string>0.18</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -21842,7 +22598,7 @@
 								<integer>2</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red46\green46\blue46;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -21866,6 +22622,13 @@
 											<string>{{45.5, 460.456}, {274, 19}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>86529</integer>
 											<key>Shape</key>
@@ -21933,7 +22696,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica-Bold</string>
+												<string>HelveticaNeue-Bold</string>
 												<key>NSKern</key>
 												<real>0.0</real>
 												<key>Size</key>
@@ -22032,7 +22795,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -22140,7 +22903,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -22194,7 +22957,7 @@
 								<integer>2</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -22218,6 +22981,13 @@
 											<string>{{45.5, 407.459}, {274, 18}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>86500</integer>
 											<key>Shape</key>
@@ -22285,7 +23055,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica-Bold</string>
+												<string>HelveticaNeue-Bold</string>
 												<key>NSKern</key>
 												<real>0.0</real>
 												<key>Size</key>
@@ -22384,7 +23154,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -22492,7 +23262,7 @@
 									<string>0</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -22546,7 +23316,7 @@
 								<integer>2</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -22570,6 +23340,13 @@
 											<string>{{45.5, 244.456}, {274, 18}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>86469</integer>
 											<key>Shape</key>
@@ -22637,7 +23414,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica-Bold</string>
+												<string>HelveticaNeue-Bold</string>
 												<key>NSKern</key>
 												<real>0.0</real>
 												<key>Size</key>
@@ -22814,7 +23591,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -22922,7 +23699,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -22976,7 +23753,7 @@
 								<integer>2</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -23000,6 +23777,13 @@
 											<string>{{45.5, 298.456}, {274, 18}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>86441</integer>
 											<key>Shape</key>
@@ -23067,7 +23851,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica-Bold</string>
+												<string>HelveticaNeue-Bold</string>
 												<key>NSKern</key>
 												<real>0.0</real>
 												<key>Size</key>
@@ -23166,7 +23950,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -23274,7 +24058,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -23328,7 +24112,7 @@
 								<integer>2</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -23352,6 +24136,13 @@
 											<string>{{45.5, 352.456}, {274, 18}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>HelveticaNeue-Bold</string>
+												<key>Size</key>
+												<real>21</real>
+											</dict>
 											<key>ID</key>
 											<integer>86412</integer>
 											<key>Shape</key>
@@ -23419,7 +24210,7 @@
 													<string>1</string>
 												</dict>
 												<key>Font</key>
-												<string>Helvetica-Bold</string>
+												<string>HelveticaNeue-Bold</string>
 												<key>NSKern</key>
 												<real>0.0</real>
 												<key>Size</key>
@@ -23518,7 +24309,7 @@
 											<string>1</string>
 										</dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>NSKern</key>
 										<real>0.0</real>
 										<key>Size</key>
@@ -23622,7 +24413,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -23661,7 +24452,7 @@
 								<integer>2</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -23685,7 +24476,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -23784,11 +24575,11 @@
 									<string>0</string>
 								</dict>
 								<key>Font</key>
-								<string>Corbel</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
-								<real>14</real>
+								<real>21</real>
 							</dict>
 							<key>ID</key>
 							<integer>85319</integer>
@@ -23874,11 +24665,11 @@
 									<string>0</string>
 								</dict>
 								<key>Font</key>
-								<string>Corbel</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
-								<real>14</real>
+								<real>21</real>
 							</dict>
 							<key>ID</key>
 							<integer>85320</integer>
@@ -23977,11 +24768,11 @@
 									<string>0</string>
 								</dict>
 								<key>Font</key>
-								<string>Corbel</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
-								<real>14</real>
+								<real>21</real>
 							</dict>
 							<key>ID</key>
 							<integer>85321</integer>
@@ -24080,11 +24871,11 @@
 									<string>0</string>
 								</dict>
 								<key>Font</key>
-								<string>Corbel</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
-								<real>14</real>
+								<real>21</real>
 							</dict>
 							<key>ID</key>
 							<integer>85322</integer>
@@ -24183,11 +24974,11 @@
 									<string>0</string>
 								</dict>
 								<key>Font</key>
-								<string>Corbel</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
-								<real>14</real>
+								<real>21</real>
 							</dict>
 							<key>ID</key>
 							<integer>85323</integer>
@@ -24281,7 +25072,7 @@
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>11</real>
 					</dict>
@@ -24353,7 +25144,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -24377,7 +25168,7 @@
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Arial-BoldMT</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -24451,7 +25242,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -24473,7 +25264,7 @@
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Arial-BoldMT</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -24547,7 +25338,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -24564,7 +25355,7 @@
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>12</real>
 					</dict>
@@ -24638,7 +25429,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -24657,6 +25448,13 @@
 							<string>{{511.548, 455.483}, {9.18839, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -24696,6 +25494,13 @@
 							<string>{{522.953, 475.24}, {9.18839, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -24735,6 +25540,13 @@
 							<string>{{507.371, 459.905}, {9.1884, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -24774,6 +25586,13 @@
 							<string>{{527.127, 471.313}, {9.1884, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -24813,6 +25632,13 @@
 							<string>{{507.371, 471.313}, {9.1884, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -24852,6 +25678,13 @@
 							<string>{{527.127, 459.905}, {9.1884, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -24891,6 +25724,13 @@
 							<string>{{511.548, 475.24}, {9.18839, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -24930,6 +25770,13 @@
 							<string>{{522.953, 455.483}, {9.18839, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -24969,6 +25816,13 @@
 							<string>{{505.844, 465.279}, {9.18839, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -25006,6 +25860,13 @@
 							<string>{{528.656, 465.279}, {9.18839, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -25043,6 +25904,13 @@
 							<string>{{517.248, 476.684}, {9.18839, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -25082,6 +25950,13 @@
 							<string>{{517.248, 453.873}, {9.18839, 2.35487}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>HelveticaNeue-Bold</string>
+								<key>Size</key>
+								<real>21</real>
+							</dict>
 							<key>HFlip</key>
 							<string>YES</string>
 							<key>ID</key>
@@ -25138,7 +26013,7 @@
 									<string>0</string>
 								</dict>
 								<key>Font</key>
-								<string>ArialMT</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -25308,7 +26183,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{590.222, 341.158}, {54.2825, 17}}</string>
+							<string>{{590.222, 341.158}, {54.2825, 18}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -25323,7 +26198,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -25362,7 +26237,7 @@
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -25384,7 +26259,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -25601,7 +26476,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -25804,7 +26679,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -26012,7 +26887,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -26155,7 +27030,7 @@
 									<string>0</string>
 								</dict>
 								<key>Font</key>
-								<string>ArialMT</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -26325,7 +27200,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{439.504, 342.148}, {54.2857, 17}}</string>
+							<string>{{439.504, 342.148}, {54.2857, 18}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -26340,7 +27215,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -26379,7 +27254,7 @@
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -26401,7 +27276,7 @@
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -26539,7 +27414,7 @@
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -26635,7 +27510,7 @@
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red93\green97\blue138;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -26649,6 +27524,13 @@
 					<string>{{410, 120.006}, {16, 16}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>HelveticaNeue-Bold</string>
+						<key>Size</key>
+						<real>21</real>
+					</dict>
 					<key>ID</key>
 					<integer>87967</integer>
 					<key>Shape</key>
@@ -26761,11 +27643,11 @@
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -27118,7 +28000,7 @@
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>Size</key>
 								<real>11</real>
 							</dict>
@@ -27205,6 +28087,13 @@
 									<string>{{528.916, 324.613}, {4, 202.887}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86593</integer>
 									<key>Shape</key>
@@ -27275,6 +28164,13 @@
 													<string>{{222.106, 419.332}, {320, 107.832}}</string>
 													<key>Class</key>
 													<string>ShapedGraphic</string>
+													<key>FontInfo</key>
+													<dict>
+														<key>Font</key>
+														<string>Helvetica</string>
+														<key>Size</key>
+														<real>11</real>
+													</dict>
 													<key>ID</key>
 													<integer>86596</integer>
 													<key>Shape</key>
@@ -27323,6 +28219,13 @@
 													<string>{{222.106, 311.5}, {320, 107.832}}</string>
 													<key>Class</key>
 													<string>ShapedGraphic</string>
+													<key>FontInfo</key>
+													<dict>
+														<key>Font</key>
+														<string>Helvetica</string>
+														<key>Size</key>
+														<real>11</real>
+													</dict>
 													<key>ID</key>
 													<integer>86597</integer>
 													<key>Shape</key>
@@ -27392,7 +28295,7 @@
 															<string>0</string>
 														</dict>
 														<key>Font</key>
-														<string>Helvetica-Bold</string>
+														<string>HelveticaNeue-Bold</string>
 														<key>Size</key>
 														<real>23</real>
 													</dict>
@@ -27437,7 +28340,7 @@
 														<integer>0</integer>
 														<key>Text</key>
 														<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sa320\qc\pardirnatural
 
@@ -27467,7 +28370,7 @@
 															<string>0</string>
 														</dict>
 														<key>Font</key>
-														<string>Helvetica-Bold</string>
+														<string>HelveticaNeue-Bold</string>
 														<key>Size</key>
 														<real>23</real>
 													</dict>
@@ -27514,7 +28417,7 @@
 														<integer>0</integer>
 														<key>Text</key>
 														<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sa320\qr\pardirnatural
 
@@ -27546,7 +28449,7 @@ May}</string>
 															<string>0</string>
 														</dict>
 														<key>Font</key>
-														<string>Helvetica-Bold</string>
+														<string>HelveticaNeue-Bold</string>
 														<key>Size</key>
 														<real>23</real>
 													</dict>
@@ -27591,7 +28494,7 @@ May}</string>
 														<integer>0</integer>
 														<key>Text</key>
 														<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sa320\qc\pardirnatural
 
@@ -27625,6 +28528,13 @@ May}</string>
 															<string>{{234.106, 470.253}, {155, 49.9225}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Font</key>
+																<string>Helvetica</string>
+																<key>Size</key>
+																<real>11</real>
+															</dict>
 															<key>ID</key>
 															<integer>86604</integer>
 															<key>Shape</key>
@@ -27681,6 +28591,13 @@ May}</string>
 															<string>{{234.106, 320.486}, {155, 45.9288}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Font</key>
+																<string>Helvetica</string>
+																<key>Size</key>
+																<real>11</real>
+															</dict>
 															<key>ID</key>
 															<integer>86605</integer>
 															<key>Shape</key>
@@ -27737,6 +28654,13 @@ May}</string>
 															<string>{{234.106, 361.113}, {155, 114.636}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Font</key>
+																<string>Helvetica</string>
+																<key>Size</key>
+																<real>11</real>
+															</dict>
 															<key>ID</key>
 															<integer>86606</integer>
 															<key>Shape</key>
@@ -27787,6 +28711,13 @@ May}</string>
 															<string>{{391.106, 470.253}, {37, 49.9225}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Font</key>
+																<string>Helvetica</string>
+																<key>Size</key>
+																<real>11</real>
+															</dict>
 															<key>ID</key>
 															<integer>86608</integer>
 															<key>Shape</key>
@@ -27843,6 +28774,13 @@ May}</string>
 															<string>{{391.106, 320.486}, {37, 45.9288}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Font</key>
+																<string>Helvetica</string>
+																<key>Size</key>
+																<real>11</real>
+															</dict>
 															<key>ID</key>
 															<integer>86609</integer>
 															<key>Shape</key>
@@ -27899,6 +28837,13 @@ May}</string>
 															<string>{{391.106, 361.113}, {37, 114.636}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Font</key>
+																<string>Helvetica</string>
+																<key>Size</key>
+																<real>11</real>
+															</dict>
 															<key>ID</key>
 															<integer>86610</integer>
 															<key>Shape</key>
@@ -27949,6 +28894,13 @@ May}</string>
 															<string>{{430.106, 471.251}, {101, 49.9225}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Font</key>
+																<string>Helvetica</string>
+																<key>Size</key>
+																<real>11</real>
+															</dict>
 															<key>ID</key>
 															<integer>86612</integer>
 															<key>Shape</key>
@@ -28005,6 +28957,13 @@ May}</string>
 															<string>{{430.106, 321.484}, {101, 45.9288}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Font</key>
+																<string>Helvetica</string>
+																<key>Size</key>
+																<real>11</real>
+															</dict>
 															<key>ID</key>
 															<integer>86613</integer>
 															<key>Shape</key>
@@ -28061,6 +29020,13 @@ May}</string>
 															<string>{{430.106, 362.111}, {101, 114.636}}</string>
 															<key>Class</key>
 															<string>ShapedGraphic</string>
+															<key>FontInfo</key>
+															<dict>
+																<key>Font</key>
+																<string>Helvetica</string>
+																<key>Size</key>
+																<real>11</real>
+															</dict>
 															<key>ID</key>
 															<integer>86614</integer>
 															<key>Shape</key>
@@ -28130,7 +29096,7 @@ May}</string>
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>Size</key>
 								<real>11</real>
 							</dict>
@@ -28217,6 +29183,13 @@ May}</string>
 									<string>{{558, 181}, {319.88, 108}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86560</integer>
 									<key>Shape</key>
@@ -28265,6 +29238,13 @@ May}</string>
 									<string>{{868.004, 178.59}, {9.99624, 5.00001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86561</integer>
 									<key>Shape</key>
@@ -28313,6 +29293,13 @@ May}</string>
 									<string>{{558, 178.59}, {9.99624, 5.00001}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86562</integer>
 									<key>Shape</key>
@@ -28361,6 +29348,13 @@ May}</string>
 									<string>{{558, 73}, {319.88, 108}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86563</integer>
 									<key>Shape</key>
@@ -28409,6 +29403,13 @@ May}</string>
 									<string>{{864.815, 79.8}, {3.9985, 203.204}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86564</integer>
 									<key>Shape</key>
@@ -28469,6 +29470,13 @@ May}</string>
 									<string>{{566.997, 79.8}, {3.9985, 202.595}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86565</integer>
 									<key>Shape</key>
@@ -28532,7 +29540,7 @@ May}</string>
 									<key>FontInfo</key>
 									<dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>Size</key>
 										<real>23</real>
 									</dict>
@@ -28566,7 +29574,7 @@ May}</string>
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red29\green60\blue136;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sa320\ql\qnatural\pardirnatural
 
@@ -28589,6 +29597,13 @@ Two Months}</string>
 											<string>{{568.116, 233.001}, {145.945, 50.0004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>Helvetica</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>86568</integer>
 											<key>Shape</key>
@@ -28645,6 +29660,13 @@ Two Months}</string>
 											<string>{{568.116, 83.0001}, {145.945, 46.0004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>Helvetica</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>86569</integer>
 											<key>Shape</key>
@@ -28701,6 +29723,13 @@ Two Months}</string>
 											<string>{{568.116, 123.69}, {145.945, 114.814}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>Helvetica</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>86570</integer>
 											<key>Shape</key>
@@ -28749,7 +29778,7 @@ Two Months}</string>
 									<key>FontInfo</key>
 									<dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>Size</key>
 										<real>23</real>
 									</dict>
@@ -28781,7 +29810,7 @@ Two Months}</string>
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red29\green60\blue136;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sa320\qc\pardirnatural
 
@@ -28805,6 +29834,13 @@ Two Months}</string>
 											<string>{{718.06, 233.001}, {148.944, 50.0003}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>Helvetica</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>86573</integer>
 											<key>Shape</key>
@@ -28861,6 +29897,13 @@ Two Months}</string>
 											<string>{{718.06, 83}, {148.944, 46.0003}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>Helvetica</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>86574</integer>
 											<key>Shape</key>
@@ -28917,6 +29960,13 @@ Two Months}</string>
 											<string>{{718.06, 123.69}, {148.944, 114.814}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Font</key>
+												<string>Helvetica</string>
+												<key>Size</key>
+												<real>11</real>
+											</dict>
 											<key>ID</key>
 											<integer>86575</integer>
 											<key>Shape</key>
@@ -28978,7 +30028,7 @@ Two Months}</string>
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>Size</key>
 								<real>11</real>
 							</dict>
@@ -29065,6 +30115,13 @@ Two Months}</string>
 									<string>{{868.004, 417.59}, {9.99626, 4.99998}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86548</integer>
 									<key>Shape</key>
@@ -29113,6 +30170,13 @@ Two Months}</string>
 									<string>{{558, 417.59}, {9.99626, 4.99998}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86549</integer>
 									<key>Shape</key>
@@ -29161,6 +30225,13 @@ Two Months}</string>
 									<string>{{558, 420}, {319.881, 108}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86550</integer>
 									<key>Shape</key>
@@ -29209,6 +30280,13 @@ Two Months}</string>
 									<string>{{558, 312}, {319.881, 108}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86551</integer>
 									<key>Shape</key>
@@ -29257,6 +30335,13 @@ Two Months}</string>
 									<string>{{864.815, 318.8}, {3.99851, 203.202}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86552</integer>
 									<key>Shape</key>
@@ -29317,6 +30402,13 @@ Two Months}</string>
 									<string>{{566.996, 318.8}, {3.99851, 202.593}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86553</integer>
 									<key>Shape</key>
@@ -29377,6 +30469,13 @@ Two Months}</string>
 									<string>{{567.996, 472}, {299.889, 49.9998}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86554</integer>
 									<key>Shape</key>
@@ -29433,6 +30532,13 @@ Two Months}</string>
 									<string>{{567.996, 322}, {299.889, 45.9998}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86555</integer>
 									<key>Shape</key>
@@ -29489,6 +30595,13 @@ Two Months}</string>
 									<string>{{567.996, 362.69}, {299.889, 114.813}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86556</integer>
 									<key>Shape</key>
@@ -29546,7 +30659,7 @@ Two Months}</string>
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>Size</key>
 								<real>11</real>
 							</dict>
@@ -29633,6 +30746,13 @@ Two Months}</string>
 									<string>{{531.896, 178.506}, {9.99625, 5}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86579</integer>
 									<key>Shape</key>
@@ -29681,6 +30801,13 @@ Two Months}</string>
 									<string>{{221.893, 178.506}, {9.99625, 5}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86580</integer>
 									<key>Shape</key>
@@ -29729,6 +30856,13 @@ Two Months}</string>
 									<string>{{221.893, 180.916}, {319.88, 108}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86581</integer>
 									<key>Shape</key>
@@ -29777,6 +30911,13 @@ Two Months}</string>
 									<string>{{221.893, 72.9153}, {319.88, 108}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86582</integer>
 									<key>Shape</key>
@@ -29825,6 +30966,13 @@ Two Months}</string>
 									<string>{{528.707, 79.7153}, {3.9985, 203.203}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86583</integer>
 									<key>Shape</key>
@@ -29885,6 +31033,13 @@ Two Months}</string>
 									<string>{{230.889, 79.7153}, {3.9985, 202.594}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86584</integer>
 									<key>Shape</key>
@@ -29943,6 +31098,13 @@ Two Months}</string>
 								<dict>
 									<key>Class</key>
 									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86585</integer>
 									<key>Points</key>
@@ -29987,7 +31149,7 @@ Two Months}</string>
 									<key>FontInfo</key>
 									<dict>
 										<key>Font</key>
-										<string>Helvetica-Bold</string>
+										<string>HelveticaNeue-Bold</string>
 										<key>Size</key>
 										<real>23</real>
 									</dict>
@@ -30021,7 +31183,7 @@ Two Months}</string>
 										<integer>0</integer>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red29\green60\blue136;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sa320\ql\qnatural\pardirnatural
 
@@ -30037,6 +31199,13 @@ Option 3}</string>
 									<string>{{231.889, 232.916}, {299.888, 50}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86587</integer>
 									<key>Shape</key>
@@ -30093,6 +31262,13 @@ Option 3}</string>
 									<string>{{231.889, 82.9153}, {299.888, 46}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86588</integer>
 									<key>Shape</key>
@@ -30149,6 +31325,13 @@ Option 3}</string>
 									<string>{{231.889, 123.605}, {299.888, 114.813}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>11</real>
+									</dict>
 									<key>ID</key>
 									<integer>86589</integer>
 									<key>Shape</key>
@@ -30275,11 +31458,11 @@ Option 3}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -30491,7 +31674,7 @@ Option 3}</string>
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -30559,6 +31742,13 @@ Option 3}</string>
 							<string>{{520.733, 171}, {29.8667, 28}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87519</integer>
 							<key>Shape</key>
@@ -30639,7 +31829,7 @@ Option 3}</string>
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -30656,7 +31846,7 @@ Option 3}</string>
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>22</real>
 							</dict>
@@ -30696,7 +31886,7 @@ Option 3}</string>
 								<integer>50</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tqr\tx4720\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -30727,7 +31917,7 @@ Option 3}</string>
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -30798,7 +31988,7 @@ Option 3}</string>
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>22</real>
 							</dict>
@@ -30838,7 +32028,7 @@ Option 3}</string>
 								<integer>10</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tqr\tx4720\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -30858,13 +32048,20 @@ Option 3}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{576.52, 448}, {406.4, 54}}</string>
+							<string>{{576.52, 448}, {406.4, 52}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
 							<string>Vertical</string>
 							<key>Flow</key>
 							<string>Resize</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>12</real>
+							</dict>
 							<key>ID</key>
 							<integer>87534</integer>
 							<key>Shape</key>
@@ -30895,13 +32092,13 @@ Option 3}</string>
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
 \f0\b\fs30 \cf0 Title
 \b0\fs26 \cf2 \up4 \
-Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lines of text that ...}</string>
+Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lines...}</string>
 								<key>VerticalPad</key>
 								<integer>0</integer>
 							</dict>
@@ -30911,6 +32108,13 @@ Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lin
 							<string>{{520.733, 451}, {51.2001, 48.0001}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87535</integer>
 							<key>Shape</key>
@@ -30989,7 +32193,7 @@ Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lin
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -31011,7 +32215,7 @@ Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lin
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -31077,6 +32281,13 @@ Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lin
 							<string>{{520.733, 395}, {29.8667, 28}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87531</integer>
 							<key>Shape</key>
@@ -31155,7 +32366,7 @@ Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lin
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -31177,7 +32388,7 @@ Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lin
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -31227,7 +32438,7 @@ Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lin
 								<integer>50</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -31256,7 +32467,7 @@ Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lin
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -31306,7 +32517,7 @@ Subtitle with multiple lines of text that wrap lines. Subtitle with multiple lin
 						<integer>10</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -31327,6 +32538,13 @@ Subtitle}</string>
 							<string>{{606.5, 287.4}, {379.5, 18.1333}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87528</integer>
 							<key>Shape</key>
@@ -31357,7 +32575,7 @@ Subtitle}</string>
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -31379,7 +32597,7 @@ Subtitle}</string>
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -31429,7 +32647,7 @@ Subtitle}</string>
 								<integer>50</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red68\green91\blue125;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -31449,13 +32667,20 @@ Subtitle}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{618, 232}, {364.92, 20}}</string>
+							<string>{{618, 232}, {364.92, 19}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
 							<string>Vertical</string>
 							<key>Flow</key>
 							<string>Resize</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87525</integer>
 							<key>Shape</key>
@@ -31486,7 +32711,7 @@ Subtitle}</string>
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red68\green91\blue125;}
 \pard\tqr\tx5240\tx6160\tx6720\qr\pardirnatural
 
@@ -31508,7 +32733,7 @@ Subtitle}</string>
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -31558,7 +32783,7 @@ Subtitle}</string>
 								<integer>10</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -31579,7 +32804,7 @@ Subtitle}</string>
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>17</real>
 					</dict>
@@ -31643,11 +32868,11 @@ Subtitle}</string>
 						<integer>10</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red130\green146\blue169;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
-\f0\b\fs28 \cf1 \shad\shadx-7\shady21\shadr0\shado106 \shadc0 Group Footer}</string>
+\f0\b\fs26 \cf2 Group Footer}</string>
 						<key>VerticalPad</key>
 						<integer>1</integer>
 					</dict>
@@ -31662,7 +32887,7 @@ Subtitle}</string>
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica</string>
+						<string>HelveticaNeue</string>
 						<key>Size</key>
 						<real>17</real>
 					</dict>
@@ -31712,7 +32937,7 @@ Subtitle}</string>
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\sa220\qc
@@ -31733,7 +32958,7 @@ Table Footer View}</string>
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica</string>
+						<string>HelveticaNeue</string>
 						<key>Size</key>
 						<real>17</real>
 					</dict>
@@ -31783,7 +33008,7 @@ Table Footer View}</string>
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -31802,7 +33027,7 @@ Table Footer View}</string>
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>17</real>
 					</dict>
@@ -31868,7 +33093,7 @@ Table Footer View}</string>
 						<integer>10</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -31897,7 +33122,7 @@ Table Footer View}</string>
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -31965,6 +33190,13 @@ Table Footer View}</string>
 							<string>{{168.733, 168}, {29.8667, 28}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87554</integer>
 							<key>Shape</key>
@@ -32045,7 +33277,7 @@ Table Footer View}</string>
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -32062,7 +33294,7 @@ Table Footer View}</string>
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>22</real>
 							</dict>
@@ -32102,7 +33334,7 @@ Table Footer View}</string>
 								<integer>50</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tqr\tx4720\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -32133,7 +33365,7 @@ Table Footer View}</string>
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica</string>
+								<string>HelveticaNeue</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -32204,7 +33436,7 @@ Table Footer View}</string>
 							<key>FontInfo</key>
 							<dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>Size</key>
 								<real>22</real>
 							</dict>
@@ -32244,7 +33476,7 @@ Table Footer View}</string>
 								<integer>10</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tqr\tx4720\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -32264,13 +33496,20 @@ Table Footer View}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{228.1, 445}, {229.9, 54}}</string>
+							<string>{{228.1, 445}, {229.9, 52}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
 							<string>Vertical</string>
 							<key>Flow</key>
 							<string>Resize</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87543</integer>
 							<key>Shape</key>
@@ -32301,7 +33540,7 @@ Table Footer View}</string>
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -32317,6 +33556,13 @@ Subtitle with multiple lines of text that wrap lines.}</string>
 							<string>{{168.733, 448}, {51.2001, 48.0001}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87544</integer>
 							<key>Shape</key>
@@ -32395,7 +33641,7 @@ Subtitle with multiple lines of text that wrap lines.}</string>
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -32417,7 +33663,7 @@ Subtitle with multiple lines of text that wrap lines.}</string>
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -32483,6 +33729,13 @@ Subtitle with multiple lines of text that wrap lines.}</string>
 							<string>{{168.733, 392}, {29.8667, 28}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87540</integer>
 							<key>Shape</key>
@@ -32561,7 +33814,7 @@ Subtitle with multiple lines of text that wrap lines.}</string>
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -32583,7 +33836,7 @@ Subtitle with multiple lines of text that wrap lines.}</string>
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -32633,7 +33886,7 @@ Subtitle with multiple lines of text that wrap lines.}</string>
 								<integer>50</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -32662,7 +33915,7 @@ Subtitle with multiple lines of text that wrap lines.}</string>
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -32712,7 +33965,7 @@ Subtitle with multiple lines of text that wrap lines.}</string>
 						<integer>10</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red128\green128\blue128;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -32733,6 +33986,13 @@ Subtitle}</string>
 							<string>{{254.5, 284.4}, {190, 18.1333}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87547</integer>
 							<key>Shape</key>
@@ -32763,7 +34023,7 @@ Subtitle}</string>
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -32785,7 +34045,7 @@ Subtitle}</string>
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -32835,7 +34095,7 @@ Subtitle}</string>
 								<integer>50</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red68\green91\blue125;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -32855,13 +34115,20 @@ Subtitle}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{244, 228.711}, {221, 20}}</string>
+							<string>{{244, 228.711}, {221, 19}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
 							<string>Vertical</string>
 							<key>Flow</key>
 							<string>Resize</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>87550</integer>
 							<key>Shape</key>
@@ -32892,7 +34159,7 @@ Subtitle}</string>
 								<integer>0</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red68\green91\blue125;}
 \pard\tqr\tx5240\tx6160\tx6720\qr\pardirnatural
 
@@ -32914,7 +34181,7 @@ Subtitle}</string>
 									<string>1</string>
 								</dict>
 								<key>Font</key>
-								<string>Helvetica-Bold</string>
+								<string>HelveticaNeue-Bold</string>
 								<key>NSKern</key>
 								<real>0.0</real>
 								<key>Size</key>
@@ -32964,7 +34231,7 @@ Subtitle}</string>
 								<integer>10</integer>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tqr\tx5240\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -32982,6 +34249,13 @@ Subtitle}</string>
 					<string>{{33, 334}, {16, 16}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>13</real>
+					</dict>
 					<key>ID</key>
 					<integer>85937</integer>
 					<key>Shape</key>
@@ -33036,6 +34310,13 @@ Subtitle}</string>
 							<string>{{33.225, 300.112}, {19, 4}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>85916</integer>
 							<key>Magnets</key>
@@ -33104,6 +34385,13 @@ Subtitle}</string>
 							<string>{{33.35, 305.987}, {19, 4}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>85917</integer>
 							<key>Magnets</key>
@@ -33164,6 +34452,13 @@ Subtitle}</string>
 							<string>{{33.35, 312.112}, {19, 4}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>85918</integer>
 							<key>Magnets</key>
@@ -33236,7 +34531,7 @@ Subtitle}</string>
 							<string>1</string>
 						</dict>
 						<key>Font</key>
-						<string>Helvetica</string>
+						<string>HelveticaNeue</string>
 						<key>NSKern</key>
 						<real>0.0</real>
 						<key>Size</key>
@@ -33301,15 +34596,24 @@ Subtitle}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{155, 508}, {320, 21}}</string>
+					<string>{{152.5, 508.5}, {320, 21}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
 					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>0.501961</string>
+							<key>g</key>
+							<string>0.501961</string>
+							<key>r</key>
+							<string>0.501961</string>
+						</dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
-						<real>17</real>
+						<real>14</real>
 					</dict>
 					<key>ID</key>
 					<integer>85782</integer>
@@ -33371,11 +34675,11 @@ Subtitle}</string>
 						<integer>10</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red130\green146\blue169;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
-\f0\b\fs28 \cf1 \shad\shadx-7\shady21\shadr0\shado106 \shadc0 Group Footer}</string>
+\f0\b\fs26 \cf2 Group Footer}</string>
 						<key>VerticalPad</key>
 						<integer>1</integer>
 					</dict>
@@ -33390,7 +34694,7 @@ Subtitle}</string>
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica</string>
+						<string>HelveticaNeue</string>
 						<key>Size</key>
 						<real>17</real>
 					</dict>
@@ -33440,7 +34744,7 @@ Subtitle}</string>
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\sa220\qc
@@ -33461,7 +34765,7 @@ Table Footer View}</string>
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica</string>
+						<string>HelveticaNeue</string>
 						<key>Size</key>
 						<real>17</real>
 					</dict>
@@ -33511,7 +34815,7 @@ Table Footer View}</string>
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -33532,6 +34836,13 @@ Table Footer View}</string>
 							<string>{{100.401, 332.064}, {9.50669, 13.8715}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>85894</integer>
 							<key>Shape</key>
@@ -33558,6 +34869,13 @@ Table Footer View}</string>
 							<string>{{92.5, 328}, {22, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>85895</integer>
 							<key>Magnets</key>
@@ -33674,6 +34992,13 @@ Table Footer View}</string>
 							<string>{{97.3897, 304.166}, {12.2222, 3.66666}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>85897</integer>
 							<key>Magnets</key>
@@ -33699,6 +35024,13 @@ Table Footer View}</string>
 							<string>{{92.5, 295}, {22, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>85898</integer>
 							<key>Magnets</key>
@@ -33820,6 +35152,13 @@ Table Footer View}</string>
 									<string>{{101.667, 266.889}, {3.66666, 12.2222}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>13</real>
+									</dict>
 									<key>ID</key>
 									<integer>85901</integer>
 									<key>Magnets</key>
@@ -33845,6 +35184,13 @@ Table Footer View}</string>
 									<string>{{97.3897, 271.166}, {12.2222, 3.66666}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>13</real>
+									</dict>
 									<key>ID</key>
 									<integer>85902</integer>
 									<key>Magnets</key>
@@ -33874,6 +35220,13 @@ Table Footer View}</string>
 							<string>{{92.5, 262}, {22, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica</string>
+								<key>Size</key>
+								<real>13</real>
+							</dict>
 							<key>ID</key>
 							<integer>85903</integer>
 							<key>Magnets</key>
@@ -33988,7 +35341,7 @@ Table Footer View}</string>
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>Helvetica-Bold</string>
+						<string>HelveticaNeue-Bold</string>
 						<key>Size</key>
 						<real>17</real>
 					</dict>
@@ -34054,7 +35407,7 @@ Table Footer View}</string>
 						<integer>10</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
@@ -34073,7 +35426,7 @@ Table Footer View}</string>
 					<key>FontInfo</key>
 					<dict>
 						<key>Font</key>
-						<string>ArialMT</string>
+						<string>HelveticaNeue</string>
 						<key>Size</key>
 						<real>12</real>
 					</dict>
@@ -34121,7 +35474,7 @@ Table Footer View}</string>
 						<integer>0</integer>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
-{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
@@ -34238,11 +35591,11 @@ Z\
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -38852,11 +40205,11 @@ Subtitle}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -41566,11 +42919,11 @@ Subtitle}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -44165,11 +45518,11 @@ Subtitle}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -58441,11 +59794,11 @@ ABC}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -58635,18 +59988,6 @@ Grouped}</string>
 					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<string>0.93</string>
-								<key>g</key>
-								<string>0.93</string>
-								<key>r</key>
-								<string>0.93</string>
-							</dict>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -58754,11 +60095,11 @@ Grouped}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -58884,18 +60225,6 @@ Grouped}</string>
 					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<string>0.93</string>
-								<key>g</key>
-								<string>0.93</string>
-								<key>r</key>
-								<string>0.93</string>
-							</dict>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -59010,11 +60339,11 @@ Grouped}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -60984,11 +62313,11 @@ Grouped}</string>
 						<key>Color</key>
 						<dict>
 							<key>b</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>g</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 							<key>r</key>
-							<string>0.333333</string>
+							<string>0.901961</string>
 						</dict>
 					</dict>
 					<key>shadow</key>
@@ -62990,11 +64319,11 @@ Grouped}</string>
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>9</integer>
+		<integer>0</integer>
 		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{0, 4}, {1680, 1024}}</string>
+		<string>{{0, 175}, {1334, 853}}</string>
 		<key>ListView</key>
 		<false/>
 		<key>OutlineWidth</key>
@@ -63037,7 +64366,7 @@ Grouped}</string>
 			<array>
 				<string>Bars</string>
 				<real>1</real>
-				<real>0.73124998807907104</real>
+				<real>2</real>
 			</array>
 			<array>
 				<string>Controls</string>
@@ -63047,7 +64376,7 @@ Grouped}</string>
 			<array>
 				<string>Table View</string>
 				<real>1</real>
-				<real>1</real>
+				<real>2</real>
 			</array>
 			<array>
 				<string>Table View : Grouped</string>

@@ -16,6 +16,14 @@ A stencil for designing iOS applications for iPhone, iPad and iPod touch devices
 
 ## History
 
+### 1.6 - March 18, 2011
+
+* Add iPad 2 stencil to UI and Wireframes
+* Remove app width UIPickers in iPad stencil. Use Popover controllers.
+* Change backing color of stencil canvases to a light gray as OG Pro 5.2.3 appears to be ignoring stencil background colors.
+* Lighten or darken existing shapes to ensure visibility.
+
+
 ### 1.5 - February 5, 2011
 
 * Shorter stencil file names for better readability in desktop and iPad stencil libraries.
